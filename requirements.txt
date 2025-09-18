@@ -1,4 +1,4 @@
-steamlit
+streamlit
 gymnasium
 stable-baselines3
 plotly
