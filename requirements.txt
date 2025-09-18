@@ -1,0 +1,4 @@
+steamlit
+gymnasium
+stable-baselines3
+plotly
